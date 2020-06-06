@@ -1,27 +1,27 @@
 @import "{{ cayman }}";
 
 footer {
-	display: none;
+	display: none !important;
 }
 
 body {
-	color: #b9c0c3;
-	background-color: #111111;
+	color: #b9c0c3 !important;
+	background-color: #111111 !important;
 }
 
 a {
-	color: #e46c6c;
+	color: #e46c6c !important;
 }
 
 .main-content {
-	background-color: #111111;
+	background-color: #111111 !important;
 }
 
 .main-content h1 {
-	color: #d06c70;
+	color: #d06c70 !important;
 }
 
 .main-content code {
-	color: #dadbdc;
-	background-color: #1a1a1a;
+	color: #dadbdc !important;
+	background-color: #1a1a1a !important;
 }
